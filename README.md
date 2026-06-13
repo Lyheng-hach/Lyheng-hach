@@ -10,7 +10,7 @@ Currently learning, building, and exploring the world of data — one dataset at
 - 🎓 Studying Data Science
 - 🔍 Interested in data analysis, visualization, and machine learning
 - 🌱 Currently deepening my knowledge in ML algorithms and SQL
-- 📫 Reach me at: hachlyheng@gmail.com
+- 📫 Reach me at: hachlyheng760@gmail.com
 
 ---
 
@@ -52,11 +52,9 @@ Currently learning, building, and exploring the world of data — one dataset at
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Web Develope](https://github.com/Lyheng-hach/webin-internship-portal) | A full-stack internship management system. Students can browse and apply for internship positions, companies manage applications, supervisors oversee interns, and admins control the entire platform. | FastAPI, MySQL, and React + Vite + Tailwind CSS |
-| 📊 [Project Name](https://github.com/zuko) | Short description of what this project does | SQL, Matplotlib |
-| 🤖 [Project Name](https://github.com/zuko) | Short description of what this project does | Scikit-learn |
-
-> Replace placeholders above with your actual repositories.
+| [Website Internship](https://github.com/Lyheng-hach/webin-internship-portal) | A full-stack internship management system. Students can browse and apply for internship positions, companies manage applications, supervisors oversee interns, and admins control the entire platform. | FastAPI, MySQL, and React + Vite + Tailwind CSS |
+| [SVD apply on MNIST](https://github.com/Lyheng-hach/SVD_MNIST) | This project loads the MNIST dataset, applies SVD to reduce dimensionality, and reconstructs images using a specified number of singular values. It showcases how SVD can be used for data compression and feature extraction in image data. | Python, JupyterNotebook |
+| 🤖 [POS System](https://github.com/Lyheng-hach/POS-system) | A POS (Point of Sale) system is the hardware and software businesses use to process customer payments and execute sales | C++ |
 
 ---
 
@@ -66,8 +64,8 @@ Currently learning, building, and exploring the world of data — one dataset at
 - [x] Data manipulation with Pandas & NumPy
 - [x] SQL & relational databases
 - [x] Data visualization
-- [ ] Machine learning algorithms
-- [ ] Model deployment
+- [x] Machine learning algorithms
+- [x] Model deployment
 - [ ] Deep learning
 
 ---
