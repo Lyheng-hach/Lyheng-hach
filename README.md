@@ -52,7 +52,7 @@ Currently learning, building, and exploring the world of data — one dataset at
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| 🔍 [Project Name](https://github.com/zuko) | Short description of what this project does | Python, Pandas |
+| [Web Develope](https://github.com/Lyheng-hach/webin-internship-portal) | A full-stack internship management system. Students can browse and apply for internship positions, companies manage applications, supervisors oversee interns, and admins control the entire platform. | FastAPI, MySQL, and React + Vite + Tailwind CSS |
 | 📊 [Project Name](https://github.com/zuko) | Short description of what this project does | SQL, Matplotlib |
 | 🤖 [Project Name](https://github.com/zuko) | Short description of what this project does | Scikit-learn |
 
