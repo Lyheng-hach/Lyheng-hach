@@ -55,7 +55,7 @@ Currently learning, building, and exploring the world of data — one dataset at
 |---------|-------------|-------|
 | [Website Internship](https://github.com/Lyheng-hach/webin-internship-portal) | A full-stack internship management system. Students can browse and apply for internship positions, companies manage applications, supervisors oversee interns, and admins control the entire platform. | FastAPI, MySQL, and React + Vite + Tailwind CSS |
 | [SVD apply on MNIST](https://github.com/Lyheng-hach/SVD_MNIST) | This project loads the MNIST dataset, applies SVD to reduce dimensionality, and reconstructs images using a specified number of singular values. It showcases how SVD can be used for data compression and feature extraction in image data. | Python, JupyterNotebook |
-| 🤖 [POS System](https://github.com/Lyheng-hach/POS-system) | A POS (Point of Sale) system is the hardware and software businesses use to process customer payments and execute sales | C++ |
+| [POS System](https://github.com/Lyheng-hach/POS-system) | A POS (Point of Sale) system is the hardware and software businesses use to process customer payments and execute sales | C++ |
 
 ---
 
